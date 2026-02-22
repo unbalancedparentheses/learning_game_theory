@@ -52,10 +52,18 @@ Game theory, mechanism design, and strategic interaction.
 - [Yale ECON 159: Game Theory](https://oyc.yale.edu/economics/econ-159) - Ben Polak. Full course on Open Yale.
 - [Coursera: Game Theory](https://www.coursera.org/learn/game-theory-1) - Stanford/UBC. Jackson, Leyton-Brown, Shoham.
 
+## Additional Resources
+
+- [Yale ECON 159: Game Theory (Ben Polak)](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B) - Full Yale lecture series. Outstanding lecturer covering pure/mixed strategies, signaling, and auctions.
+- [Game Theory Alive - Karlin & Peres](https://homes.cs.washington.edu/~karlin/GameTheoryBook.pdf) - Free textbook aimed at computer scientists, covering algorithmic game theory, mechanism design, and price of anarchy.
+- [Twenty Lectures on Algorithmic Game Theory - Roughgarden](https://www.cambridge.org/core/books/twenty-lectures-on-algorithmic-game-theory/A9C44E15E58C4BBF8B12F80B53EC5E9C) - Bridge between CS and economics: equilibrium computation, mechanism design, online learning in games.
+- [Tim Roughgarden's AGT Lectures (Stanford)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4) - Full Stanford lecture series by one of the field's best expositors.
+- [The Evolution of Cooperation - Robert Axelrod](https://www.basicbooks.com/titles/robert-axelrod/the-evolution-of-cooperation/9780465005642/) - Classic on iterated Prisoner's Dilemma tournaments showing how cooperation emerges among self-interested agents.
+
 ## Applications to Distributed Systems
 
-- Consensus as a game-theoretic problem
-- Token mechanism design and incentive compatibility
-- Schelling points and focal points in coordination games
-- VCG mechanisms in decentralized protocols
-- MEV and transaction ordering games
+- [Consensus as a game-theoretic problem](https://arxiv.org/abs/1803.05949) - Abraham, Malkhi, et al. The interplay between distributed computing and game theory.
+- [Token mechanism design and incentive compatibility](https://arxiv.org/abs/1807.11218) - Biais et al. Equilibrium analysis of blockchain mining and tokenomics.
+- [Schelling points and focal points in coordination games](https://en.wikipedia.org/wiki/Focal_point_(game_theory)) - How agents coordinate without communication — foundational for protocol design.
+- [VCG mechanisms in decentralized protocols](https://dl.acm.org/doi/10.1145/3328526.3329627) - Roughgarden. Transaction fee mechanism design for blockchains.
+- [MEV and transaction ordering games](https://arxiv.org/abs/1904.05234) - Daian et al. (Flash Boys 2.0). Frontrunning and consensus instability.
